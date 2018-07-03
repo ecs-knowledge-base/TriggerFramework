@@ -1,4 +1,4 @@
-# Campaign Form Lightning Component App
+# Architecture Framework
 
 ## Salesforce Deploy button (Sandbox)
 <a href="https://githubsfdeploy.herokuapp.com">
